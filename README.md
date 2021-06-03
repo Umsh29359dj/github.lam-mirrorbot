@@ -213,7 +213,7 @@ Many thanks to [AutoRClone](https://github.com/xyou365/AutoRclone) for the scrip
 Let us create only the Service Accounts that we need. 
 **Warning**: abuse of this feature is not the aim of this project and we do **NOT** recommend that you make a lot of projects, just one project and 100 SAs allow you plenty of use, its also possible that over abuse might get your projects banned by Google. 
 
-`NOTE: 1 Service Account can copy around 750gb a day, 1 project can make 100 Service Accounts so that's 75tb a day, for most users this should easily suffice. `
+**NOTE:** 1 Service Account can copy around 750gb a day, 1 project can make 100 Service Accounts so that's 75tb a day, for most users this should easily suffice.
 ```
 python3 gen_sa_accounts.py --quick-setup 1 --new-only
 ```
