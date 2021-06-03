@@ -207,6 +207,8 @@ Many thanks to [AutoRClone](https://github.com/xyou365/AutoRclone) for the scrip
 **NOTE**: Using Service Accounts is only recommended while uploading to a Team Drive.
 
 ## Generate Service Accounts. [What is Service Account](https://cloud.google.com/iam/docs/service-accounts)
+<details>
+    <summary><b>Click here for more details</b></summary>
 
 Let us create only the Service Accounts that we need. 
 **Warning**: abuse of this feature is not the aim of this project and we do **NOT** recommend that you make a lot of projects, just one project and 100 SAs allow you plenty of use, its also possible that over abuse might get your projects banned by Google. 
@@ -255,6 +257,8 @@ Then add emails from emails.txt to Google Group, after that add Google Group to 
 ```
 python3 gen_sa_accounts.py --download-keys project_id
 ```
+
+</details>
 
 ## Add all the Service Accounts to the Team Drive
 - Run:
