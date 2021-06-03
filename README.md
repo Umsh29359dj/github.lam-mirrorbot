@@ -35,7 +35,7 @@
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
 - Mirroring Mega.nz links to Google Drive (If your Mega account not premium, it will limit 4-5gb/day)
 - Copy files from someone's Drive to your Drive (Using Autorclone)
-- Download/upload progress, speeds and ETAs
+- Download/Upload progress, Speeds and ETAs
 - Mirror all Youtube-dl supported links
 - Docker support
 - Uploading to Team Drive
