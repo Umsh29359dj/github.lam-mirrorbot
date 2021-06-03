@@ -267,7 +267,7 @@ python3 add_to_team_drive.py -d SharedTeamDriveSrcID
 ```
 
 # Youtube-dl authentication using .netrc file
-For using your premium accounts in Youtube-dl or for protected index links, edit the netrc file according to following format:
+For using your premium accounts in Youtube-dl or for protected Index Links, edit the netrc file according to following format:
 ```
 machine host login username password my_youtube_password
 ```
